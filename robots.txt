@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.davidmuellerat.github.io/sitemap.xml
+Sitemap: https://www.instamitkon.de/sitemap.xml
